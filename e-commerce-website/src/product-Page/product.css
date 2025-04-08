@@ -64,19 +64,25 @@ body{
 }
 
 .input{
-  padding: 10px 150px;
+
   margin-left: 500px;
+  padding-top: 26px;
+  padding-bottom: 11px;
+  padding-right: 150px;
+  padding-left: 150px;
 }
 
 .Search-button{
-  border-radius: 0;
-  padding: 10px 15px;
-  padding-bottom: 6px;
+   border-radius: 0;
+  padding: 0px 15px;
+  padding-bottom: 13px;
 }
 
 .Search-button img {
   height: 30px;
   width: 30px;
+  padding-top: 10px;
+
 }
 
 .footer{
